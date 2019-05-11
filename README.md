@@ -21,3 +21,8 @@ jupyter notebook
 Then you may run navigate each program and run them using the notebook.
 
 ## Results:
+
+![Linear Regression](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/Linear.png)
+![Xgboost](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/xgboost.png)
+![lightGBM](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/lightGBM.png)
+![Neural Network](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/NeuralNetwork.png)
