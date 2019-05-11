@@ -18,7 +18,7 @@ cd src
 jupyter notebook
 ```
 
-Then you may run navigate each program and run them using the notebook.
+Then you may explore each program and run them using the notebook.
 
 ## Best Result of each Model:
 <p align="center">Linear Regression</p>
