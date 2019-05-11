@@ -24,7 +24,7 @@ Then you may run navigate each program and run them using the notebook.
 <p align="center">Linear Regression</p>
 ![Linear Regression](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/Linear.png)
 <p align="center">Figure 1</p>
-<p align="center">Xgboost</p>
+<p align="center">Xgboost</p>   
 ![Xgboost](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/xgboost.png)
 <p align="center">Figure 2</p>
 <p align="center">LightGBM</p>
