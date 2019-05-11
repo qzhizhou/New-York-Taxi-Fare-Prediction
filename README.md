@@ -20,9 +20,16 @@ jupyter notebook
 
 Then you may run navigate each program and run them using the notebook.
 
-## Results:
-
+## Best Result of each Model:
+<p align="center">Linear Regression</p>
 ![Linear Regression](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/Linear.png)
+<p align="center">Figure 1</p>
+<p align="center">Xgboost</p>
 ![Xgboost](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/xgboost.png)
+<p align="center">Figure 2</p>
+<p align="center">LightGBM</p>
 ![lightGBM](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/lightGBM.png)
+<p align="center">Figure 3</p>
+<p align="center">Neural Network</p>
 ![Neural Network](https://github.com/qzhizhou/New-York-Taxi-Fare-Prediction/blob/master/pic/NeuralNetwork.png)
+<p align="center">Figure 4</p>
