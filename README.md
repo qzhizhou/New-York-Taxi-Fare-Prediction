@@ -17,7 +17,7 @@ pip install -r requirements.txt
 cd src
 jupyter notebook
 ```
-Secondly, after you get the data, you should run the "data_preprocess_and_linear_model.py.ipynb" first，you will get the file 'Train_Processed.csv'.
+Secondly, after you get the data, you should run the "data_preprocess_and_linear_model.py.ipynb" first，you will get the file 'Train_Processed_4.23.csv'.
 
 Then you may explore each program and run them using the notebook by import the 'Train_Processed.csv' as input traing data.
 
