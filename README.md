@@ -3,7 +3,7 @@
 This is a project to predict the fare amount for a taxi ride in New York City given the pick-up and drop-off locations.
 
 ## Authors:
-Zhibin Huang; Zhizhou Qiu; Tianyi Tang
+Zhizhou Qiu; Tianyi Tang; Zhibin Huang;
 
 
 ## Brief Introduction:
