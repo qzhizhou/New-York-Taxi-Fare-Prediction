@@ -11,7 +11,7 @@ chardet==3.0.4
 cloudpickle==0.6.1
 configobj==5.0.6
 cowsay==2.0
-cryptography==2.4.2
+cryptography==3.2
 cssselect==1.0.3
 cycler==0.10.0
 dask==1.0.0
