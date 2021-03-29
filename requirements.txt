@@ -64,7 +64,7 @@ pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pycodestyle==2.5.0
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 pylint==2.2.2
 pyparsing==2.3.0
 python-dateutil==2.7.5
