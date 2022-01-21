@@ -26,7 +26,7 @@ goose3==3.1.6
 grpcio==1.16.0
 idna==2.7
 ipykernel==5.1.0
-ipython==7.2.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.4
